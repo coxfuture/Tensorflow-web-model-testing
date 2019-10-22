@@ -1,0 +1,10 @@
+tensorflow-gpu
+flask
+flask-login
+flask-wtf
+flask-sqlalchemy
+flask-bcrypt
+opencv-python
+Pillow
+
+
